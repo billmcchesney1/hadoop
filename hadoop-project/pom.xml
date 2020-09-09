@@ -107,7 +107,7 @@
     for an open-ended enforcement
     -->
     <enforced.java.version>[${javac.version},)</enforced.java.version>
-    <enforced.maven.version>[3.3.0,)</enforced.maven.version>
+    <enforced.maven.version>[3.0.4,)</enforced.maven.version>
 
     <!-- Plugin versions and config -->
     <maven-surefire-plugin.argLine>-Xmx2048m -XX:MaxPermSize=768m -XX:+HeapDumpOnOutOfMemoryError</maven-surefire-plugin.argLine>
@@ -1391,6 +1391,7 @@
           </execution>
         </executions>
         <configuration>
+	   <skip>true</skip>
           <signature>
             <groupId>org.codehaus.mojo.signature</groupId>
             <artifactId>java17</artifactId>
