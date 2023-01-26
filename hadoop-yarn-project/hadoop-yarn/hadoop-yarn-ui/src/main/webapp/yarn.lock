@@ -1704,9 +1704,10 @@ ember-cli-preprocess-registry@^1.0.3:
     process-relative-require "^1.0.0"
     silent-error "^1.0.0"
 
-ember-cli-qunit@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/ember-cli-qunit/-/ember-cli-qunit-1.2.1.tgz#b728bc72ced1b4991d1044eb906b88dbfb019abe"
+ember-cli-qunit@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/ember-cli-qunit/-/ember-cli-qunit-1.2.2.tgz#3b88ae5dab3c90c2d8cb24462ca66291038b606b"
+  integrity sha512-jMgunrFto3Xm2m3uN+Tz6Hnuk7cy8is/gwej3jX8eDJKxjOIgjKu1JImokYX0tOKHaJuHnZ+OHSUCa+ZlO1Xgw==
   dependencies:
     broccoli-babel-transpiler "^5.5.0"
     broccoli-jshint "^1.0.0"
