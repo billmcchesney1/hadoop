@@ -670,7 +670,25 @@ broccoli-filter@^1.2.2, broccoli-filter@^1.2.3:
     symlink-or-copy "^1.0.1"
     walk-sync "^0.3.1"
 
-broccoli-funnel@1.0.1, broccoli-funnel@^1.0.0, broccoli-funnel@^1.0.1:
+broccoli-funnel@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/broccoli-funnel/-/broccoli-funnel-1.0.2.tgz#3e4c4e0f5b39ed37202990453695370c3a1ad002"
+  integrity sha512-2E5ZqARUoq2p9sbl6CO+8BXu/7YQMFY3rrkTP6tkMABs/zgYSQC3eXOm/ZjT1wElsiYCo+R8oIeuS2UrKFBK4w==
+  dependencies:
+    array-equal "^1.0.0"
+    blank-object "^1.0.1"
+    broccoli-plugin "^1.0.0"
+    debug "^2.2.0"
+    fast-ordered-set "^1.0.0"
+    fs-tree-diff "^0.3.0"
+    minimatch "^3.0.0"
+    mkdirp "^0.5.0"
+    path-posix "^1.0.0"
+    rimraf "^2.4.3"
+    symlink-or-copy "^1.0.0"
+    walk-sync "^0.2.6"
+
+broccoli-funnel@^1.0.0, broccoli-funnel@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/broccoli-funnel/-/broccoli-funnel-1.0.1.tgz#12cb76e342343592a3b18ae7840c0db3bd16d8af"
   dependencies:
