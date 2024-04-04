@@ -1717,9 +1717,10 @@ ember-cli-qunit@1.2.1:
     qunitjs "^1.20.0"
     resolve "^1.1.6"
 
-ember-cli-release@0.2.8:
-  version "0.2.8"
-  resolved "https://registry.yarnpkg.com/ember-cli-release/-/ember-cli-release-0.2.8.tgz#e9fddd06058c0f3bc2ea57ab2667e9611f8fb205"
+ember-cli-release@0.2.9:
+  version "0.2.9"
+  resolved "https://registry.yarnpkg.com/ember-cli-release/-/ember-cli-release-0.2.9.tgz#5e8de3d034c65597933748023058470ec1231adb"
+  integrity sha512-37VBIyyKlHkVQmFj/gFTIeV2SP1BJ1K/ehE2ipLq41iy/yoxy2KcpVO7Pvh2Oe3kagRtswoX5gc4JOVmJpcC+w==
   dependencies:
     chalk "^1.0.0"
     git-tools "^0.1.4"
