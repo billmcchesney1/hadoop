@@ -1612,7 +1612,17 @@ ember-cli-htmlbars@0.7.6:
     broccoli-filter "^0.1.6"
     ember-cli-version-checker "^1.0.2"
 
-ember-cli-htmlbars@1.0.2, ember-cli-htmlbars@^1.0.0, ember-cli-htmlbars@^1.0.1:
+ember-cli-htmlbars@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/ember-cli-htmlbars/-/ember-cli-htmlbars-1.0.3.tgz#0bdcbe8853fb64fc16be1594ad4219438ba83a06"
+  integrity sha512-/CnZEU5NlqvLBao5yfib79x+Dy2IqQplot0nlkWRJOhKr0kEds0kuw1O2RiWi6YVu+FIOg/fCSC5vP9oVNCzMQ==
+  dependencies:
+    broccoli-persistent-filter "^1.0.3"
+    ember-cli-version-checker "^1.0.2"
+    json-stable-stringify "^1.0.0"
+    strip-bom "^2.0.0"
+
+ember-cli-htmlbars@^1.0.0, ember-cli-htmlbars@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/ember-cli-htmlbars/-/ember-cli-htmlbars-1.0.2.tgz#53b3e503ed3aaccb8c23592f292bc2e10ae467a1"
   dependencies:
